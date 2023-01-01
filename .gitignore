@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.vscode/*
+
+src/migrations
+src/migrations/**.*
+.docker/dbdata
+.docker/dbdata/*
